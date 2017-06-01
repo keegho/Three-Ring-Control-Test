@@ -4,4 +4,4 @@ Just create a cocopod podfile in the root of your project and add:
 then `pod install`
 Open the .xcworkspace
 
-`Import ThreeRingControl`
+`import ThreeRingControl`
